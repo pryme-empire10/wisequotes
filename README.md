@@ -1,16 +1,11 @@
 # wisequotes
 
-A new Flutter project.
+-  Quote Fetching: Utilizes an API to fetch quotes.
+-  Voice Feature: Listen to your favorite quotes being read out loud.
+-  Share Quotes: Share quotes with friends.
+-  Responsive: Responsive to all screen size.
+  
 
-## Getting Started
+<img src="https://github.com/pryme-empire10/wisequotes/assets/65182511/7aca9d6b-029b-47d3-8d1b-7c3c69871ea6" width="300" height="600">
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
